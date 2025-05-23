@@ -1,2 +1,10 @@
-PCB/SensLord/SensLord-backups/SensLord*.zip
-PCB/test/SensLord.log
+# LT spice
+PCB/test/*.log
+PCB/test/*.op.raw
+PCB/test/*.raw
+
+# Kicad
+~*
+PCB/SensLord/SensLord-backups/
+PCB/SensLord/*.kicad_prl
+PCB/SensLord/fp-info-cache
